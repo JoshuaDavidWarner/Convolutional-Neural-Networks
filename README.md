@@ -6,4 +6,4 @@
 
 ## List of Projects
 
-  - [MNIST Dataset CNN](https://github.com/WepsDrawn/Convolutional-Neural-Networks/blob/master/MNIST.py)
+  - [MNIST Dataset CNN (99.4% accuracy)](https://github.com/WepsDrawn/Convolutional-Neural-Networks/blob/master/MNIST.py)
